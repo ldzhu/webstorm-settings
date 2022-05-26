@@ -1,7 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmExit" value="false" />
-    <option name="defaultProjectDirectory" value="$USER_HOME$/SourceCode/" />
     <option name="showTipsOnStartup" value="false" />
   </component>
 </application>
