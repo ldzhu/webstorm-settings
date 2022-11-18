@@ -7,4 +7,11 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1668734271949" />
   </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
+  </component>
 </application>
